@@ -3,11 +3,18 @@
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	text-align: center;
 	color: white;
-	background-color: lightblue;
+	background-color: brown;
 }
 .recipes {
 	font-size: 16px;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	text-align: center;
 	color: white;
+	margin-top: 40px;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
 }
