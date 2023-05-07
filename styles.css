@@ -12,13 +12,20 @@
     font-size: 50px;
 }
 
+.subheader {
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+p,
+li {
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    font-size: 14px;
+}
+
 img {
     margin-left: 385px;
     margin-bottom: 30px;
     height: auto;
     width: 500px;
-}
-
-.links {
-
 }
